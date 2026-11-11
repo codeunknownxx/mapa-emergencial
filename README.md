@@ -47,10 +47,6 @@ flowchart LR
 JavaScript · Cloudflare Workers (static assets, Cron Triggers, KV) · Wrangler ·
 D3 · Vitest (188 tests) · GDACS / ACLED / UCDP / ReliefWeb
 
-## Demo
-
-<!-- DEMO_URL -->
-
 ## What I learned
 
 - Building a serverless app with scheduled jobs and a key-value cache within
